@@ -689,11 +689,13 @@ ul {
   fill: var(--cloud-color);
 }
 
-/* subscribe-footer*/
+/* in plus*/
 
 img {
   display: block;
 }
+
+/* subscribe-footer */
 
 .fundal-footer-link {
   font-family: "Raleway", sans-serif;
@@ -716,7 +718,7 @@ img {
   font-style: normal;
   font-weight: 500;
   line-height: 1.5;
-  letter-spacing: 0.02px;
+  letter-spacing: 0.02em;
   margin-bottom: 16px;
 }
 
